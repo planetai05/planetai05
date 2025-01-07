@@ -1,4 +1,4 @@
-<h2 align="left">Hi There 👋! Planet Ai here </h2>
+<h2 align="left">Hi There, Planet Ai here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px"></h2>
 
 ###
 
