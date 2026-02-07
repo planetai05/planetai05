@@ -4,6 +4,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=planetai05&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=planetai05&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=planetai05&theme=aura_dark)
 
 
 
